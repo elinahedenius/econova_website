@@ -1,2 +1,2 @@
 # econova_website
-the offical website for econova
+The offial website for econova
